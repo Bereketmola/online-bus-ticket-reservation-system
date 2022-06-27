@@ -1,0 +1,57 @@
+	#navsite p {
+		 display: none;
+		}
+		#navsite {
+		 font-family:Georgia;
+		 font-size: 0.8em;
+		 font-weight: bold;
+		 width: auto; 
+		 margin-left:5%;
+		 
+		
+		}
+		#navsite ul {
+		 list-style: none; 
+		 margin: 0; 
+		 padding: 0; 
+		}
+		#navsite ul li {
+		 margin: 0; 
+		 border-top: 1px solid #pink;
+		}
+		#navsite ul li a {
+		 display: block; 
+		
+		 width: 50%; 
+		}
+		html>body #navsite ul li a { 
+		 width: auto; 
+		}
+		#navsite ul li a:hover {
+		
+		 background-color: #    ; 
+		 color: #000; 
+		}
+		#navsite a:link {text-decoration:none;}
+		#navsite a:hover {text-decoration:;}
+		#navsite a:visited {text-decoration:none;}
+		#navsite a:active {text-decoration:;}
+
+		
+		
+		
+		#online_chat_css a:link {text-decoration:none;
+		background-color: #;
+		width: 100px;
+			height:10px;
+		}
+		#online_chat_css a:hover {text-decoration:underline;
+			background-color: #;
+			width: 80px;
+			height:10px;
+		}
+		#online_chat_css a:visited {text-decoration:none;}
+		#online_chat_css a:active {text-decoration:underline;}
+
+		
+		
